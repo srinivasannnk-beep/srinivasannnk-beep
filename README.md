@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:7c3aed&text=Srinivasan&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Finance%20analyst%20%C2%B7%20builder%20of%20the%20tools%20finance%20runs%20on&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:7c3aed&text=Srinivasan&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Data%20Analytics%20%26%20AI%20%C2%B7%20building%20the%20tools%20finance%20runs%20on&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Hotel+financials+(USALI)+%C2%B7+consolidation+%C2%B7+cash+flow+%C2%B7+treasury;Live+finance+analytics+platforms%3A+Next.js+%2B+FastAPI+%2B+Power+BI;Semantic+models+over+SAP%2C+PMS+and+POS+data;Purchase-order+apps+that+post+straight+into+SAP+S%2F4HANA;Revenue+assurance%3A+tickets%2C+POS+and+bank+reconciled+night+by+night;Shipping+with+AI+coding+agents%2C+verified+like+a+finance+close" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Analytics+%26+AI+for+finance+%C2%B7+hotel+P%26L+(USALI)+%C2%B7+cash+%C2%B7+treasury;Live+finance+analytics+platforms%3A+Next.js+%2B+FastAPI+%2B+Power+BI;Semantic+models+over+SAP%2C+PMS+and+POS+data;Purchase-order+apps+that+post+straight+into+SAP+S%2F4HANA;Revenue+assurance%3A+tickets%2C+POS+and+bank+reconciled+night+by+night;Shipping+with+AI+coding+agents%2C+verified+like+a+finance+close" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## About
 
-Finance analyst at a Dubai hospitality group, working in hotel financials (USALI) by day and building the finance team's own software the rest of the time. I sit between the ledger and the codebase: I know what a number must tie to, and I can build the thing that shows it.
+Manager, Data Analytics & AI at a Dubai hospitality group, after a decade as a BI consultant and solution architect (Microsoft Fabric, Power BI, Tableau, Azure, AWS). Today I sit between the ledger and the codebase: I know what a number must tie to in a hotel P&L, and I build the platform that shows it.
 
 ## What I have built
 
