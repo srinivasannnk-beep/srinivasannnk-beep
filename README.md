@@ -1,62 +1,55 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:7c3aed&text=Srinivasan&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Data%20Analytics%20%26%20AI%20%C2%B7%20building%20the%20tools%20finance%20runs%20on&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,100:7c3aed&text=Srinivasan&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=Technology%20leader%20%C2%B7%20Data%2C%20Analytics%20%26%20AI%20for%20Finance&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Analytics+%26+AI+for+finance+%C2%B7+hotel+P%26L+(USALI)+%C2%B7+cash+%C2%B7+treasury;Live+finance+analytics+platforms%3A+Next.js+%2B+FastAPI+%2B+Power+BI;Semantic+models+over+SAP%2C+PMS+and+POS+data;Purchase-order+apps+that+post+straight+into+SAP+S%2F4HANA;Revenue+assurance%3A+tickets%2C+POS+and+bank+reconciled+night+by+night;Shipping+with+AI+coding+agents%2C+verified+like+a+finance+close" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+strategy+and+governance+for+a+global+hospitality+group;Analytics+platform+modernisation+on+Microsoft+Fabric%2C+Azure+and+AWS;AI-powered+finance+transformation+and+process+automation;One+version+of+the+truth%2C+faster+closes%2C+controls+that+stand+up+to+audit" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/srinivasannnk/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:Srinivasann.nk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Dubai%2C%20UAE-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ## About
 
-Manager, Data Analytics & AI at a Dubai hospitality group, after a decade as a BI consultant and solution architect (Microsoft Fabric, Power BI, Tableau, Azure, AWS). Today I sit between the ledger and the codebase: I know what a number must tie to in a hotel P&L, and I build the platform that shows it.
+Manager, Data Analytics & AI at FIVE Holdings, a hospitality and real estate group operating across Dubai, Zurich, Ibiza and New York. I set the data and AI agenda for the finance function and own its delivery.
 
-## What I have built
+Before this, a decade leading data platform and analytics programmes for enterprises as a solution architect and consultant, across Microsoft Fabric, Azure, AWS, SAP and Oracle landscapes.
+
+My focus is on outcomes the business can see: one version of the truth, faster closes, controls that stand up to audit, and teams that spend their time on decisions rather than spreadsheets.
+
+## What I lead
 
 | | |
 |---|---|
-| **Finance analytics hub** | A live reporting platform for a hotel and venue portfolio across Dubai, Zurich, Ibiza and New York: P&L, daily revenue, cash flow, working capital, treasury, loan schedules. One sign-in, every report, row-level security straight from the semantic model. Next.js + FastAPI on Azure Container Apps, deployed by push with smoke tests and auto-rollback. |
-| **Semantic model consolidation** | 150+ legacy Power BI datasets mapped and folded into a handful of governed models over SAP, PMS and POS data. Partitioned general ledger, dual-ledger rules, daily refresh. |
-| **Purchase-order gateway** | A maker-checker purchasing app for a New York venue that posts purchase orders straight into SAP S/4HANA, with catalogue ordering, approvals, audit trail and Cognito sign-in. Next.js on AWS ECS, Postgres, Secrets Manager. |
-| **Revenue assurance decks** | Forensic, night-by-night reconciliation of ticketing, POS and bank settlement for nightlife venues, with an audit panel for every exception and a SOX 404 certification walk. |
-| **Treasury and cash** | Group cash-flow dashboards live from SAP, DRR-to-cash walks, a loan reckoner with editable terms and a monthly treasury pack built from a dropped workbook. |
+| **Data strategy and governance** | One governed analytics platform for group financial reporting, with the system of record as the single source of truth and access controlled at the data layer. |
+| **Platform modernisation** | A fragmented reporting estate consolidated and modernised on Microsoft Fabric and Azure, with AWS where it fits. |
+| **AI-powered finance transformation** | Finance processes automated end to end, from procurement into SAP to revenue assurance, treasury and cash. |
+| **Controls and assurance** | Security, controls and audit posture established across the platform ahead of external assurance. |
+| **Delivery capability** | An in-house, AI-assisted delivery model that ships verified improvements to the business every week. |
 
-## Skills
-
-**Finance** · USALI hotel P&L · group consolidation · cash flow and working capital · treasury and loan schedules · revenue audit · SOX 404 control testing · budget vs actual and variance commentary
-
-**Data** · Power BI and DAX (large models, partitions, RLS, composite models) · SQL Server · Amazon Redshift · SAP S/4HANA (GL, OData APIs) · Opera PMS and Micros Simphony data · ETL with Python and Airflow
-
-**Engineering** · TypeScript / Next.js / React · Python / FastAPI · Azure Container Apps, Entra ID, Azure OpenAI · AWS ECS, Cognito, RDS, S3, Glue · GitHub Actions CI/CD with smoke tests and rollback · security hardening (rate limits, headers, access gates, dependency scanning)
-
-**Ways of working** · AI-assisted engineering with Claude Code and agent skills · documentation that changes in the same commit as the code · releases verified against the statement of record before anyone is told they are live
+## Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/DAX-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
+## Certifications
+
+Microsoft Certified: Fabric Analytics Engineer Associate · Microsoft Power BI (Exam 778) · Databricks Lakehouse Fundamentals · Tableau Desktop series
 
 ## How I work
 
-- **Finance first.** Every figure ties to the statement of record before it ships.
-- **Small, verified releases.** Type-checked, smoke-tested, auto-rollback on failure.
-- **Living documentation.** The notes change in the same commit as the code.
-- **Private by default.** The production code above belongs to the business and lives in private repositories; this page is the showcase.
+- **Finance first.** Every figure ties to the statement of record before anyone sees it.
+- **Small, verified releases.** Change reaches the business weekly, checked, and reversible.
+- **Private by default.** The platforms above belong to the business and live in private repositories. This page is the public face.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/srinivasannnk-beep/srinivasannnk-beep/output/github-snake-dark.svg" alt="Contribution snake" width="100%" />
